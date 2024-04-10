@@ -44,8 +44,8 @@ Users should be able to:
 
 ### Links
 
-- [Solution](#)
-- [Live Site](#)
+- [Solution](https://www.frontendmentor.io/solutions/testimonials-section-using-css-grid-TBaq6oSpYS)
+- [Live Site](https://alberto-rj.github.io/testimonials-grid-section/)
 
 ## My process
 
